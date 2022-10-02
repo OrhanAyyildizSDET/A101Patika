@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="41.976">
+    <testcase classname="a101 test case" name="siyah dizaltı çorap satın alma" time="41.773">
+        <system-out><![CDATA[Given a101 sitesine gidilir "https://www.a101.com.tr/"......................passed
+When Giyim--> Aksesuar--> Kadın İç Giyim-->Dizaltı Çorap bölümüne girilir...passed
+Then - Açılan ürünün siyah olduğu doğrulanır................................passed
+When Sepete ekle butonuna tıklanır..........................................passed
+And Sepeti Görüntüle butonuna tıklanır......................................passed
+And Sepeti Onayla butonuna tıklanır.........................................passed
+And Üye olmadan devam et butonuna tıklanır..................................passed
+Then Mail ekranı gelir......................................................passed
+And Sonrasında adres ekranı gelir...........................................passed
+When Adres oluştur dedikten sonra ödeme ekranı gelir........................passed
+And Siparişi tamamla butonuna tıklayarak,...................................passed
+Then ödeme ekranına gidildiği ,doğru ekrana yönlendiklerini kontrol edecekler..passed
+]]></system-out>
+    </testcase>
+</testsuite>
